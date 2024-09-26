@@ -11,10 +11,10 @@
 # 🤖About Me
 - 🏢 I've been in the software industry since 2012
 - 📏 I have been a technical instructor since 2020
-- 🏫 I studied Computer Science at California State University, Fullerton
+- 🏫 I graduated with my BS in Computer Science at California State University, Fullerton
 - 🇺🇸 I'm located near Seattle, WA
-- 🔬 I'm innterested in computer graphics and audio
-- 🎒 I'm currently learning python, django, and rust
+- 🔬 I'm interested in neural networsk, computer graphics and audio applications
+- 🎒 I'm currently learning python, and django
 ---
 
 # 💻 Languages and Tools
